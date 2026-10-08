@@ -1,0 +1,27 @@
+{
+  "name": "automatedseo",
+  "displayName": "AutomatedSEO",
+  "version": "1.0.0",
+  "description": "Turn your AutomatedSEO workspace into finished SEO work: monthly reports, ranked fix lists, content plans on your calendar, brand-checked drafts, prospect audits, and publishing to a custom-built site.",
+  "author": {
+    "name": "Safain Labs Ltd",
+    "email": "hello@automatedseo.app",
+    "url": "https://automatedseo.app/about"
+  },
+  "homepage": "https://automatedseo.app/docs/mcp",
+  "repository": "https://github.com/automatedseo/automatedseo-plugin",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "content marketing",
+    "site audit",
+    "keyword research",
+    "search console",
+    "blogging"
+  ],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://automatedseo.app/docs/mcp",
+  "supportUrl": "https://automatedseo.app/support",
+  "privacyPolicyUrl": "https://automatedseo.app/legal/privacy",
+  "termsOfServiceUrl": "https://automatedseo.app/legal/terms"
+}

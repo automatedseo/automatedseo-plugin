@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "automatedseo": {
+      "type": "http",
+      "url": "https://automatedseo.app/api/mcp"
+    }
+  }
+}
